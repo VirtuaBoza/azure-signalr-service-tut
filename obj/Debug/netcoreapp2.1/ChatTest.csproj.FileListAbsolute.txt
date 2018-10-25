@@ -1,0 +1,15 @@
+/Users/andrew/source/ChatTest/bin/Debug/netcoreapp2.1/ChatTest.deps.json
+/Users/andrew/source/ChatTest/bin/Debug/netcoreapp2.1/ChatTest.runtimeconfig.json
+/Users/andrew/source/ChatTest/bin/Debug/netcoreapp2.1/ChatTest.runtimeconfig.dev.json
+/Users/andrew/source/ChatTest/bin/Debug/netcoreapp2.1/ChatTest.dll
+/Users/andrew/source/ChatTest/bin/Debug/netcoreapp2.1/ChatTest.pdb
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.csprojAssemblyReference.cache
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.csproj.CoreCompileInputs.cache
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.RazorAssemblyInfo.cache
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.RazorAssemblyInfo.cs
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.AssemblyInfoInputs.cache
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.AssemblyInfo.cs
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.RazorTargetAssemblyInfo.cache
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.dll
+/Users/andrew/source/ChatTest/obj/Debug/netcoreapp2.1/ChatTest.pdb
